@@ -30,7 +30,7 @@ The program demonstrates recursive problem solving without relying on built-in s
 ```text id="zuh5bg"
 racket-recursive-sorting
 │
-├── PLWeek06_JohnPleasant.rkt
+├── recursive_sort.rkt
 └── README.md
 ```
 
@@ -50,9 +50,7 @@ racket recursive_sort.rkt
 
 ## Example Output
 
-```text id="mb26uj"
-Final result: '(3 3 5 6 9 12 13 15 17 20 21 22 22 22 33 53 72 74 88 94 95 96 101)
-```
+![Program Output](screenshot.png)
 
 ---
 
