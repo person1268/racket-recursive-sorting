@@ -43,7 +43,7 @@ Open in DrRacket and run the file.
 Or from terminal:
 
 ```bash id="85v4fe"
-racket PLWeek06_JohnPleasant.rkt
+racket recursive_sort.rkt
 ```
 
 ---
